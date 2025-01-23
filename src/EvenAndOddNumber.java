@@ -20,7 +20,7 @@ public class EvenAndOddNumber {
             System.out.println("Even");
         }
         else {
-            System.out.println("odd");
+            System.out.println("ODD");
         }
     }
 }
